@@ -38,6 +38,7 @@ h3
   font-size: 20px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
+  margin:0px 20px;
 }
 
 .btn:hover {
@@ -59,6 +60,6 @@ footer {
 
 .row{
   margin: 0%;
-  background-color: #66BFBF;
+  background-color: rgb(145, 233, 233);
   padding: 50px 0 50px;
 }
